@@ -6,7 +6,6 @@
 
 - **GitHub**
 	- Hosts code repository and provides distributed version control
-
 - **Code Pipeline**
 	- **Code Commit** - pipeline trigger, when new commit is made repo changes are pulled    
 	- **Code Build** - read/complile project code using `buildspec.yaml`
